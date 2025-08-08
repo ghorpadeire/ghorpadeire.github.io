@@ -211,7 +211,8 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
- footer: `© ${new Date().getFullYear()} Pranav Ghorpade — All Rights Reserved`,
+footer: `© ${new Date().getFullYear()} Pranav Ghorpade | Cybersecurity & DevOps Engineer | <a href="mailto:pranav.ghorpade3108@gmail.com">Contact</a>`,
+
 
 
   enablePWA: true,
