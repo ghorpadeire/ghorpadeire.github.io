@@ -33,7 +33,7 @@ const CONFIG = {
   },
 },
 
-  seo: { title: 'Pranav Ghorpade — DevOps & Cybersecurity Portfolio', description: 'DevOps, Cloud, and Security projects, blogs, and experience.', imageURL: '' },
+  seo: { title: 'Pranav Ghorpade — DevOps & Cybersecurity Portfolio', description: 'Portfolio of Pranav Ghorpade, a DevOps and Cybersecurity Engineer skilled in AWS, Docker, Kubernetes, Jenkins, Terraform, Spring Boot, and Ethical Hacking. Showcasing projects, certifications, and hands-on experience in backend development, cloud infrastructure, and automation.', imageURL: '' },
   social: {
     linkedin: 'pranav-ire',
     x: '',
