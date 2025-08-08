@@ -19,7 +19,7 @@ const CONFIG = {
       sortBy: 'stars',
       limit: 8,
       exclude: {
-        forks: false,
+        forks: true,
         projects: [],
       },
     },
