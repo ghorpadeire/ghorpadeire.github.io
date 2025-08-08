@@ -211,7 +211,8 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
- 
+ footer: `© ${new Date().getFullYear()} Pranav Ghorpade — All Rights Reserved`,
+
 
   enablePWA: true,
 };
